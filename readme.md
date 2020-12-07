@@ -16,6 +16,6 @@ You can modify the settings in the src/index.js file:
 
 You can also modify the color and speed of the highlighter by changing the data attribute on the element:
 
-<span class='highlighter' data-color='orange' data-speed='20'>Paint me orange!</span>
+![](src/assets/html.png)
 
 That's all :)
