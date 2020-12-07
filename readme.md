@@ -6,7 +6,8 @@ Download the dist folder if you wish to use this library without any further mod
 
 If you wish to modify the default settings, simply follow these steps:
 
-> git clone git@github.com:jawadshuaib/dynamic-highlighter.git
+git clone git@github.com:jawadshuaib/dynamic-highlighter.git
+
 > npm install
 
 You can modify the settings in the src/index.js file:
@@ -15,6 +16,6 @@ You can modify the settings in the src/index.js file:
 
 You can also modify the color and speed of the highlighter by changing the data attribute on the element:
 
-> <span class='highlighter' data-color='orange' data-speed='20'>Paint me orange!</span>
+<span class='highlighter' data-color='orange' data-speed='20'>Paint me orange!</span>
 
 That's all :)
